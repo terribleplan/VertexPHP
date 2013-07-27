@@ -7,7 +7,7 @@ Using VertexPHP is as simple as
 ```php
 require_once('vertex.php');
 //Note that there is no trailing slash
-$database = new VertexDB("http://127.0.0.1:8001/");
+$database = new VertexDB("http://127.0.0.1:8001");
 
 //do stuff
 ```
